@@ -1,0 +1,626 @@
+[
+  {
+    "filename": "CSfC_Threat_factsheet.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/threat prevention/CSfC_Threat_factsheet.pdf?ver=78EseWwBCHCiHeenJ4IzCQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/",
+    "local_path": "csfc_docs\\Commercial-Solutions-for-Classified-Program\\CSfC_Threat_factsheet.pdf",
+    "size_kb": 1418.1,
+    "downloaded_at": "2026-04-09T01:42:11.643729Z"
+  },
+  {
+    "filename": "Applicant Reasonable Accommodation Request SOP_FINAL_Dec 2024.pdf",
+    "url": "https://www.nsa.gov/Portals/75/Applicant Reasonable Accommodation Request SOP_FINAL_Dec 2024.pdf?ver=RqoSAPgg9J9T7mR7n2KTYg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/",
+    "local_path": "csfc_docs\\Commercial-Solutions-for-Classified-Program\\Applicant Reasonable Accommodation Request SOP_FINAL_Dec 2024.pdf",
+    "size_kb": 580.2,
+    "downloaded_at": "2026-04-09T01:43:12.033084Z"
+  },
+  {
+    "filename": "Personal Assistance Services Business Rules_Updated May 2025.pdf",
+    "url": "https://www.nsa.gov/Portals/75/Personal Assistance Services Business Rules_Updated May 2025.pdf?ver=b9zCxb_uED8B8BKm2TNbMQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/",
+    "local_path": "csfc_docs\\Commercial-Solutions-for-Classified-Program\\Personal Assistance Services Business Rules_Updated May 2025.pdf",
+    "size_kb": 421.9,
+    "downloaded_at": "2026-04-09T01:43:12.148363Z"
+  },
+  {
+    "filename": "NSA FY24 Performance relative to FY24 Strategic Plan for PwD Recruitment_Hiring_Advancement_Retention.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/Culture/NSA FY24 Performance relative to FY24 Strategic Plan for PwD Recruitment_Hiring_Advancement_Retention.pdf?ver=12PTJlPKXh4xAYgYLH5rSA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/",
+    "local_path": "csfc_docs\\Commercial-Solutions-for-Classified-Program\\NSA FY24 Performance relative to FY24 Strategic Plan for PwD Recruitment_Hiring_Advancement_Retention.pdf",
+    "size_kb": 361.8,
+    "downloaded_at": "2026-04-09T01:43:12.372120Z"
+  },
+  {
+    "filename": "CP Versioning Scheme 1_1_PUBLIC_latest.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CP Versioning Scheme 1_1_PUBLIC_latest.pdf?ver=KPd8LEUURIV-PYdCQG0Obg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CP Versioning Scheme 1_1_PUBLIC_latest.pdf",
+    "size_kb": 147.8,
+    "downloaded_at": "2026-04-09T01:44:14.942691Z"
+  },
+  {
+    "filename": "(U) Mobile Access Capability Package v2_7_1_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Mobile Access Capability Package v2_7_1_1.pdf?ver=geDfZclqn-XIDjuPQBhf6Q%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Mobile Access Capability Package v2_7_1_1.pdf",
+    "size_kb": 8403.8,
+    "downloaded_at": "2026-04-09T01:44:15.309000Z"
+  },
+  {
+    "filename": "(U) Mobile Access Capability Package v2_7_1 800-53 Control Mapping_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Mobile Access Capability Package v2_7_1 800-53 Control Mapping_1.pdf?ver=MQHny5wcpt4VAUY6GBbldw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Mobile Access Capability Package v2_7_1 800-53 Control Mapping_1.pdf",
+    "size_kb": 844.3,
+    "downloaded_at": "2026-04-09T01:44:15.424297Z"
+  },
+  {
+    "filename": "(U) Approved Campus WLAN CP v3_1_0 - 28 Jan 2025.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Approved Campus WLAN CP v3_1_0 - 28 Jan 2025.pdf?ver=85_8_8qp1MifwHVTQALzVw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Approved Campus WLAN CP v3_1_0 - 28 Jan 2025.pdf",
+    "size_kb": 4877.1,
+    "downloaded_at": "2026-04-09T01:44:15.678064Z"
+  },
+  {
+    "filename": "(U) WLAN CP v3_1 Requirements Mappings to CNSSI-NIST SP 800-53 Controls.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) WLAN CP v3_1 Requirements Mappings to CNSSI-NIST SP 800-53 Controls.pdf?ver=W6_Tt5kn1HqpPmmkkFhp4Q%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) WLAN CP v3_1 Requirements Mappings to CNSSI-NIST SP 800-53 Controls.pdf",
+    "size_kb": 987.4,
+    "downloaded_at": "2026-04-09T01:44:16.162519Z"
+  },
+  {
+    "filename": "(U) Approved Multi-Site Connectivity Capability Package v1_2_0.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Approved Multi-Site Connectivity Capability Package v1_2_0.pdf?ver=VeL0xSuxzKXgs1_GhS50wg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Approved Multi-Site Connectivity Capability Package v1_2_0.pdf",
+    "size_kb": 1315.3,
+    "downloaded_at": "2026-04-09T01:44:16.641494Z"
+  },
+  {
+    "filename": "(U) Control Mappings MSC v1_2_0.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Control Mappings MSC v1_2_0.pdf?ver=5ENl2fpnsZUcKepsp9vt8A%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Control Mappings MSC v1_2_0.pdf",
+    "size_kb": 555.5,
+    "downloaded_at": "2026-04-09T01:44:17.282404Z"
+  },
+  {
+    "filename": "Data-at-Rest Capability Package v5.0.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/Data-at-Rest Capability Package v5.0.pdf?ver=u2-HEakuVfDs1-sonI-Now%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\Data-at-Rest Capability Package v5.0.pdf",
+    "size_kb": 2236.7,
+    "downloaded_at": "2026-04-09T01:44:17.434107Z"
+  },
+  {
+    "filename": "mapping-dar-5_0_cp_20220505_FINAL.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/solution-registration/mapping-dar-5_0_cp_20220505_FINAL.pdf?ver=JSyA0wjF_sZRPQGFMefGTA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\mapping-dar-5_0_cp_20220505_FINAL.pdf",
+    "size_kb": 72.3,
+    "downloaded_at": "2026-04-09T01:44:17.548961Z"
+  },
+  {
+    "filename": "(U) Data-at-Rest CP v5_1 Draft 1_0.pdf",
+    "url": "https://www.nsa.gov/Portals/75/(U) Data-at-Rest CP v5_1 Draft 1_0.pdf?ver=5imAoljF7WynEopBPpKOxQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Data-at-Rest CP v5_1 Draft 1_0.pdf",
+    "size_kb": 1327.2,
+    "downloaded_at": "2026-04-09T01:44:17.868047Z"
+  },
+  {
+    "filename": "Data-at-Rest CP 5_1_0 draft 1 Comment Matrix External-Fillable.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/Data-at-Rest CP 5_1_0 draft 1 Comment Matrix External-Fillable.pdf?ver=8q6roMux3YBOV82ii1EaEw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\Data-at-Rest CP 5_1_0 draft 1 Comment Matrix External-Fillable.pdf",
+    "size_kb": 612.9,
+    "downloaded_at": "2026-04-09T01:44:17.988969Z"
+  },
+  {
+    "filename": "(U) Approved Enterprise Gray Implementation Requirements Annex v1_1_1 - Copy.pdf",
+    "url": "https://www.nsa.gov/Portals/75/(U) Approved Enterprise Gray Implementation Requirements Annex v1_1_1 - Copy.pdf?ver=P_BaTx0dPLnE0HeObNsveQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Approved Enterprise Gray Implementation Requirements Annex v1_1_1 - Copy.pdf",
+    "size_kb": 1877.8,
+    "downloaded_at": "2026-04-09T01:44:18.416038Z"
+  },
+  {
+    "filename": "Enterprise Gray Implementation Reqs Annex v1_1 Control Mappings.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/solution-registration/Enterprise%20Gray%20Implementation%20Reqs%20Annex%20v1_1%20Control%20Mappings.pdf?ver=f-h5iAbQlWqsXIlIUVd2hQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\Enterprise Gray Implementation Reqs Annex v1_1 Control Mappings.pdf",
+    "size_kb": 782.2,
+    "downloaded_at": "2026-04-09T01:44:18.540036Z"
+  },
+  {
+    "filename": "Key Management Requirements Annex v2_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/Key Management Requirements Annex v2_1.pdf?ver=-_zn7RDtWy7qn12TzVO3kg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\Key Management Requirements Annex v2_1.pdf",
+    "size_kb": 1992.1,
+    "downloaded_at": "2026-04-09T01:44:19.153403Z"
+  },
+  {
+    "filename": "KM v2_1 Annex Mappings.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/solution-registration/KM%20v2_1%20Annex%20Mappings.pdf?ver=4xS_C76lwpRhO41rTCD3wA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\KM v2_1 Annex Mappings.pdf",
+    "size_kb": 595.0,
+    "downloaded_at": "2026-04-09T01:44:19.588102Z"
+  },
+  {
+    "filename": "CSfC Key Management Requirements Annex 3_0_0_DRAFT_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Key Management Requirements Annex 3_0_0_DRAFT_1.pdf?ver=hQlIx2TSUnQ0MOriSpZoOw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Key Management Requirements Annex 3_0_0_DRAFT_1.pdf",
+    "size_kb": 1975.9,
+    "downloaded_at": "2026-04-09T01:44:19.749542Z"
+  },
+  {
+    "filename": "CSfC Key Management Requirments Annex v3_0 Draft_1 Comment Matrix.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Key Management Requirments Annex v3_0 Draft_1 Comment Matrix.pdf?ver=QfvOkagoeBCQGr2dKvEayg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Key Management Requirments Annex v3_0 Draft_1 Comment Matrix.pdf",
+    "size_kb": 636.1,
+    "downloaded_at": "2026-04-09T01:44:20.059128Z"
+  },
+  {
+    "filename": "Symmetric Key Management Requirements v2_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/Symmetric Key Management Requirements v2_1.pdf?ver=PR0QdeiD8nnH14MbA2HnHQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\Symmetric Key Management Requirements v2_1.pdf",
+    "size_kb": 1481.6,
+    "downloaded_at": "2026-04-09T01:44:20.411240Z"
+  },
+  {
+    "filename": "CSfC Symmetric Key Management Requirements Annex _v3_0 draft_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Symmetric Key Management Requirements Annex _v3_0 draft_1.pdf?ver=FFINGpSK0Eey_OBijWQEZQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Symmetric Key Management Requirements Annex _v3_0 draft_1.pdf",
+    "size_kb": 1696.8,
+    "downloaded_at": "2026-04-09T01:45:21.081463Z"
+  },
+  {
+    "filename": "CSfC Symmetric Key Management Requirments Annex v3_0 Draft_1 Comment Matrix.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Symmetric Key Management Requirments Annex v3_0 Draft_1 Comment Matrix.pdf?ver=Aneo9-HIlNEzJylSvVtkjQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Symmetric Key Management Requirments Annex v3_0 Draft_1 Comment Matrix.pdf",
+    "size_kb": 636.4,
+    "downloaded_at": "2026-04-09T01:45:21.548554Z"
+  },
+  {
+    "filename": "(U) Approved WIDS-WIPS Annex 2_0_0 - 5 Mar 24.pdf",
+    "url": "https://www.nsa.gov/Portals/75/(U) Approved WIDS-WIPS Annex 2_0_0 - 5 Mar 24.pdf?ver=JA9WpJlJjNgAPhFjd8wgQQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Approved WIDS-WIPS Annex 2_0_0 - 5 Mar 24.pdf",
+    "size_kb": 3816.0,
+    "downloaded_at": "2026-04-09T01:45:21.986989Z"
+  },
+  {
+    "filename": "(U) Mobile Access Capability Package 2_6_0 800-53 Control Mapping_1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Mobile Access Capability Package 2_6_0 800-53 Control Mapping_1.pdf?ver=PUBHOC7SXnsKOIrazq1f9g%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Mobile Access Capability Package 2_6_0 800-53 Control Mapping_1.pdf",
+    "size_kb": 763.9,
+    "downloaded_at": "2026-04-09T01:45:22.111471Z"
+  },
+  {
+    "filename": "(U) Approved Continuous Monitoring Annex v1_1_0 - 2 March 23.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Approved Continuous Monitoring Annex v1_1_0 - 2 March 23.pdf?ver=DTH7ErwKqOYB5K4bhGzYUg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Approved Continuous Monitoring Annex v1_1_0 - 2 March 23.pdf",
+    "size_kb": 3045.3,
+    "downloaded_at": "2026-04-09T01:45:22.508995Z"
+  },
+  {
+    "filename": "Continuous Monitoring Annex v1_1_0 800-53 Control Mappings.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/Continuous Monitoring Annex v1_1_0 800-53 Control Mappings.pdf?ver=RzhQwokGYt6IPeqAMrkyiw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\Continuous Monitoring Annex v1_1_0 800-53 Control Mappings.pdf",
+    "size_kb": 853.5,
+    "downloaded_at": "2026-04-09T01:45:22.621422Z"
+  },
+  {
+    "filename": "(U) Continuous Monitoring Annex v2_0_0 DRAFT 1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) Continuous Monitoring Annex v2_0_0 DRAFT 1.pdf?ver=YNlpbN5bXEFWKUlUo6izEA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) Continuous Monitoring Annex v2_0_0 DRAFT 1.pdf",
+    "size_kb": 7603.4,
+    "downloaded_at": "2026-04-09T01:45:25.153157Z"
+  },
+  {
+    "filename": "CSfC Continuous Monitoring Annex 2_0_0 Comment Matrix.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Continuous Monitoring Annex 2_0_0 Comment Matrix.pdf?ver=CCSXfbevIBBliV-2dr8Tyw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Continuous Monitoring Annex 2_0_0 Comment Matrix.pdf",
+    "size_kb": 634.8,
+    "downloaded_at": "2026-04-09T01:45:25.321087Z"
+  },
+  {
+    "filename": "(U) CSfC EUD Composition Guidance Addendum 1_0_0 Draft 1.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/(U) CSfC EUD Composition Guidance Addendum 1_0_0 Draft 1.pdf?ver=ZompXV7TdwL0J50Gdhrr0Q%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\(U) CSfC EUD Composition Guidance Addendum 1_0_0 Draft 1.pdf",
+    "size_kb": 3711.3,
+    "downloaded_at": "2026-04-09T01:45:25.700050Z"
+  },
+  {
+    "filename": "EUD Composition Addendum Draft 1 Comment Matrix (Fillable).pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/EUD Composition Addendum Draft 1 Comment Matrix (Fillable).pdf?ver=ezS9QdG2LSc9S0_zcrTJDA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\EUD Composition Addendum Draft 1 Comment Matrix (Fillable).pdf",
+    "size_kb": 62.1,
+    "downloaded_at": "2026-04-09T01:45:25.947206Z"
+  },
+  {
+    "filename": "CSfC Post Quantum Cryptography Guidance Addendum 1_0 Draft _5.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Post Quantum Cryptography Guidance Addendum 1_0 Draft _5.pdf?ver=wCGPoDQXcJKEWTgbH8xsRA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Post Quantum Cryptography Guidance Addendum 1_0 Draft _5.pdf",
+    "size_kb": 1459.2,
+    "downloaded_at": "2026-04-09T01:45:26.115117Z"
+  },
+  {
+    "filename": "CSfC Post Quantum Cryptography Guidance Addendum v1_0 Draft_5 Comment Matrix.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Post Quantum Cryptography Guidance Addendum v1_0 Draft_5 Comment Matrix.pdf?ver=u-JXj2RhBRpMzhutWrzeZA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Capability-Packages/",
+    "local_path": "csfc_docs\\Capability-Packages\\CSfC Post Quantum Cryptography Guidance Addendum v1_0 Draft_5 Comment Matrix.pdf",
+    "size_kb": 636.4,
+    "downloaded_at": "2026-04-09T01:45:26.433493Z"
+  },
+  {
+    "filename": "handout-trifold.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/handout-trifold.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Overview/",
+    "local_path": "csfc_docs\\Overview\\handout-trifold.pdf",
+    "size_kb": 862.0,
+    "downloaded_at": "2026-04-09T01:45:32.945438Z"
+  },
+  {
+    "filename": "GRPHS-1105_CSfC_Trifold_508_UnclassSystem.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/GRPHS-1105_CSfC_Trifold_508_UnclassSystem.pdf?ver=XQB-lLuZ5nSBrPmbIM4fCw%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Overview/",
+    "local_path": "csfc_docs\\Overview\\GRPHS-1105_CSfC_Trifold_508_UnclassSystem.pdf",
+    "size_kb": 628.6,
+    "downloaded_at": "2026-04-09T01:45:33.072465Z"
+  },
+  {
+    "filename": "CSfC PMO Customer Handbook_07222021.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/Coming Soon/CSfC PMO Customer Handbook_07222021.pdf?ver=eESCodGD30fGBFl3mvZkDg%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Customer-Handbook/",
+    "local_path": "csfc_docs\\Customer-Handbook\\CSfC PMO Customer Handbook_07222021.pdf",
+    "size_kb": 989.2,
+    "downloaded_at": "2026-04-09T01:45:35.347905Z"
+  },
+  {
+    "filename": "csfc-customer-handbook.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/csfc-customer-handbook.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/faq/",
+    "local_path": "csfc_docs\\faq\\csfc-customer-handbook.pdf",
+    "size_kb": 359.8,
+    "downloaded_at": "2026-04-09T01:45:39.773007Z"
+  },
+  {
+    "filename": "scheme-pub-6.pdf",
+    "url": "https://www.niap-ccevs.org/Documents_and_Guidance/ccevs/scheme-pub-6.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\scheme-pub-6.pdf",
+    "size_kb": 229.5,
+    "downloaded_at": "2026-04-09T01:45:42.314284Z"
+  },
+  {
+    "filename": "csfc_component_questionnaire-blank_v3_0_2-page.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/csfc_component_questionnaire-blank_v3_0_2-page.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\csfc_component_questionnaire-blank_v3_0_2-page.pdf",
+    "size_kb": 112.2,
+    "downloaded_at": "2026-04-09T01:45:42.421191Z"
+  },
+  {
+    "filename": "authentication-servers.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/authentication-servers.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\authentication-servers.pdf",
+    "size_kb": 162.7,
+    "downloaded_at": "2026-04-09T01:45:42.522449Z"
+  },
+  {
+    "filename": "certificate-authorities.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/certificate-authorities.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\certificate-authorities.pdf",
+    "size_kb": 271.9,
+    "downloaded_at": "2026-04-09T01:45:42.631039Z"
+  },
+  {
+    "filename": "Client-Virtualization.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/Client-Virtualization.pdf?ver=NdViBHhRzQeneAy3_yPbnA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\Client-Virtualization.pdf",
+    "size_kb": 806.1,
+    "downloaded_at": "2026-04-09T01:45:42.818348Z"
+  },
+  {
+    "filename": "email-clients.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/email-clients.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\email-clients.pdf",
+    "size_kb": 45.3,
+    "downloaded_at": "2026-04-09T01:45:43.034483Z"
+  },
+  {
+    "filename": "CSfC Selections for End User Devices and Mobile Platform_Nov 2018.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Selections for End User Devices and Mobile Platform_Nov 2018.pdf?ver=2018-11-29-092200-213",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\CSfC Selections for End User Devices and Mobile Platform_Nov 2018.pdf",
+    "size_kb": 1565.7,
+    "downloaded_at": "2026-04-09T01:45:43.208986Z"
+  },
+  {
+    "filename": "file-encryption.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/file-encryption.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\file-encryption.pdf",
+    "size_kb": 33.5,
+    "downloaded_at": "2026-04-09T01:45:43.312317Z"
+  },
+  {
+    "filename": "General Purpose Operating System Selectors.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/General Purpose Operating System Selectors.pdf?ver=_F1nlN-BoArFWlDUGCDEeQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\General Purpose Operating System Selectors.pdf",
+    "size_kb": 157.4,
+    "downloaded_at": "2026-04-09T01:45:43.425121Z"
+  },
+  {
+    "filename": "General Purpose Compute Platform Selectors.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/General Purpose Compute Platform Selectors.pdf?ver=_F1nlN-BoArFWlDUGCDEeQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\General Purpose Compute Platform Selectors.pdf",
+    "size_kb": 115.6,
+    "downloaded_at": "2026-04-09T01:45:53.427057Z"
+  },
+  {
+    "filename": "sw-fde.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/sw-fde.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\sw-fde.pdf",
+    "size_kb": 314.7,
+    "downloaded_at": "2026-04-09T01:45:53.537989Z"
+  },
+  {
+    "filename": "ips.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/ips.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\ips.pdf",
+    "size_kb": 179.2,
+    "downloaded_at": "2026-04-09T01:45:54.045349Z"
+  },
+  {
+    "filename": "vpn-clients.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/vpn-clients.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\vpn-clients.pdf",
+    "size_kb": 207.5,
+    "downloaded_at": "2026-04-09T01:45:54.299316Z"
+  },
+  {
+    "filename": "vpn-gateways.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/vpn-gateways.pdf?ver=JmI-Fzv5NcgZ5GOYOPWeBQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\vpn-gateways.pdf",
+    "size_kb": 692.9,
+    "downloaded_at": "2026-04-09T01:45:54.631396Z"
+  },
+  {
+    "filename": "macsec.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/macsec.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\macsec.pdf",
+    "size_kb": 165.3,
+    "downloaded_at": "2026-04-09T01:45:55.073317Z"
+  },
+  {
+    "filename": "mdm.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/mdm.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\mdm.pdf",
+    "size_kb": 13.3,
+    "downloaded_at": "2026-04-09T01:45:55.188913Z"
+  },
+  {
+    "filename": "sbc.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/sbc.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\sbc.pdf",
+    "size_kb": 209.0,
+    "downloaded_at": "2026-04-09T01:45:55.297290Z"
+  },
+  {
+    "filename": "esc.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/esc.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\esc.pdf",
+    "size_kb": 571.0,
+    "downloaded_at": "2026-04-09T01:45:55.634041Z"
+  },
+  {
+    "filename": "TLS-Protected-Servers-2022-08-24.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/TLS-Protected-Servers-2022-08-24.pdf?ver=nul1TQ_lLzl47yk_osll4w%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\TLS-Protected-Servers-2022-08-24.pdf",
+    "size_kb": 732.7,
+    "downloaded_at": "2026-04-09T01:45:55.792283Z"
+  },
+  {
+    "filename": "CSfC Selections for TLS Software Application-2022-11-03.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/CSfC Selections for TLS Software Application-2022-11-03.pdf?ver=w971KKfVKjBfgT6ak8iJhQ%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\CSfC Selections for TLS Software Application-2022-11-03.pdf",
+    "size_kb": 834.2,
+    "downloaded_at": "2026-04-09T01:45:56.515771Z"
+  },
+  {
+    "filename": "tffw.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/tffw.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\tffw.pdf",
+    "size_kb": 396.1,
+    "downloaded_at": "2026-04-09T01:45:56.641416Z"
+  },
+  {
+    "filename": "voip-applications.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/voip-applications.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\voip-applications.pdf",
+    "size_kb": 39.3,
+    "downloaded_at": "2026-04-09T01:45:56.863230Z"
+  },
+  {
+    "filename": "web-browsers.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/web-browsers.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\web-browsers.pdf",
+    "size_kb": 44.8,
+    "downloaded_at": "2026-04-09T01:45:57.083348Z"
+  },
+  {
+    "filename": "wlan-access-systems.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/components-list/selections/wlan-access-systems.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/",
+    "local_path": "csfc_docs\\Components-List\\wlan-access-systems.pdf",
+    "size_kb": 13.8,
+    "downloaded_at": "2026-04-09T01:45:57.202318Z"
+  },
+  {
+    "filename": "criteria-for-integrators.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/criteria-for-integrators.pdf?ver=tZD2qZUua8hHjyrxjRVgpA%3d%3d",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Trusted-Integrator-List/",
+    "local_path": "csfc_docs\\Trusted-Integrator-List\\criteria-for-integrators.pdf",
+    "size_kb": 1149.3,
+    "downloaded_at": "2026-04-09T01:46:00.955204Z"
+  },
+  {
+    "filename": "authentication-servers.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/authentication-servers.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\authentication-servers.pdf",
+    "size_kb": 162.7,
+    "downloaded_at": "2026-04-09T01:47:14.719857Z"
+  },
+  {
+    "filename": "certificate-authorities.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/certificate-authorities.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\certificate-authorities.pdf",
+    "size_kb": 271.9,
+    "downloaded_at": "2026-04-09T01:47:14.819868Z"
+  },
+  {
+    "filename": "CSfC Selections for End User Devices and Mobile Platform_Nov 2018.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/capability-packages/CSfC Selections for End User Devices and Mobile Platform_Nov 2018.pdf?ver=2018-11-29-092200-213",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\CSfC Selections for End User Devices and Mobile Platform_Nov 2018.pdf",
+    "size_kb": 1565.7,
+    "downloaded_at": "2026-04-09T01:47:14.941908Z"
+  },
+  {
+    "filename": "sw-fde.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/sw-fde.pdf?ver=2018-08-07-104717-663",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\sw-fde.pdf",
+    "size_kb": 314.7,
+    "downloaded_at": "2026-04-09T01:47:15.501199Z"
+  },
+  {
+    "filename": "ips.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/ips.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\ips.pdf",
+    "size_kb": 179.2,
+    "downloaded_at": "2026-04-09T01:47:15.608877Z"
+  },
+  {
+    "filename": "vpn-gateways.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/vpn-gateways.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\vpn-gateways.pdf",
+    "size_kb": 692.9,
+    "downloaded_at": "2026-04-09T01:47:15.735121Z"
+  },
+  {
+    "filename": "macsec.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/macsec.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\macsec.pdf",
+    "size_kb": 165.3,
+    "downloaded_at": "2026-04-09T01:47:15.851275Z"
+  },
+  {
+    "filename": "mdm.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/mdm.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\mdm.pdf",
+    "size_kb": 13.3,
+    "downloaded_at": "2026-04-09T01:47:15.950974Z"
+  },
+  {
+    "filename": "sip-servers.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/sip-servers.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\sip-servers.pdf",
+    "size_kb": 571.0,
+    "downloaded_at": "2026-04-09T01:47:16.080215Z"
+  },
+  {
+    "filename": "tls-protected-servers.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/tls-protected-servers.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\tls-protected-servers.pdf",
+    "size_kb": 190.0,
+    "downloaded_at": "2026-04-09T01:47:16.297038Z"
+  },
+  {
+    "filename": "tls-sw-applications.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/tls-sw-applications.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\tls-sw-applications.pdf",
+    "size_kb": 111.8,
+    "downloaded_at": "2026-04-09T01:47:16.503155Z"
+  },
+  {
+    "filename": "tffw.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/tffw.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\tffw.pdf",
+    "size_kb": 396.1,
+    "downloaded_at": "2026-04-09T01:47:16.616825Z"
+  },
+  {
+    "filename": "voip-applications.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/voip-applications.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\voip-applications.pdf",
+    "size_kb": 39.3,
+    "downloaded_at": "2026-04-09T01:47:16.713209Z"
+  },
+  {
+    "filename": "wlan-access-systems.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/wlan-access-systems.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\wlan-access-systems.pdf",
+    "size_kb": 13.8,
+    "downloaded_at": "2026-04-09T01:47:16.811325Z"
+  },
+  {
+    "filename": "wlan-clients.pdf",
+    "url": "https://www.nsa.gov/Portals/75/documents/resources/everyone/csfc/components-list/selections/wlan-clients.pdf",
+    "source_page": "https://www.nsa.gov/Resources/Commercial-Solutions-for-Classified-Program/Components-List/Archived-Components-List/",
+    "local_path": "csfc_docs\\Archived-Components-List\\wlan-clients.pdf",
+    "size_kb": 13.4,
+    "downloaded_at": "2026-04-09T01:47:16.917893Z"
+  }
+]
