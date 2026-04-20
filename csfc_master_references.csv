@@ -1,0 +1,112 @@
+ref_id,title,date,category,citation_count,cited_by,access,download_url
+CNSSI-1253,Security Categorization and Control Selection for NSS,Mar-14,CNSS_Policy,1,MSC_CP_v1.2.0,category,https://www.cnss.gov/CNSS/issuances/Instructions.cfm
+CNSSI-1300,NSS Public Key Infrastructure X.509 Certificate Policy,Dec-14,CNSS_Policy,5,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,category,https://www.cnss.gov/CNSS/issuances/Instructions.cfm
+CNSSI-4003,Reporting and Evaluating COMSEC Incidents,Jun-16,CNSS_Policy,1,SKM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Instructions.cfm
+CNSSI-4004,Destruction and Emergency Protection Procedures for COMSEC,Aug-06,CNSS_Policy,1,SKM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Instructions.cfm
+CNSSI-4005,Safeguarding COMSEC Facilities and Materials,Aug-11,CNSS_Policy,1,SKM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Instructions.cfm
+CNSSI-4009,CNSS Glossary,Apr-15,CNSS_Policy,8,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; SKM_Annex_v3.0.0; CM_Annex_v2.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,category,https://www.cnss.gov/CNSS/issuances/Instructions.cfm
+CNSSP-11,Acquisition of IA and IA-Enabled IT Products,Jun-13,CNSS_Policy,3,MSC_CP_v1.2.0; KM_Annex_v3.0.0; SKM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Policies.cfm
+CNSSP-15,Use of Public Standards for Secure Information Sharing,October 2016 / December 2024,CNSS_Policy,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; SKM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,category,https://www.cnss.gov/CNSS/issuances/Policies.cfm
+CNSSP-25,National Policy for PKI in NSS,Dec-17,CNSS_Policy,1,KM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Policies.cfm
+CNSSP-7,Use of Commercial Solutions to Protect NSS,Dec-15,CNSS_Policy,3,MSC_CP_v1.2.0; KM_Annex_v3.0.0; SKM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Policies.cfm
+CNSSD-505,Supply Chain Risk Management (SCRM),Nov-21,CNSS_Directive,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,category,https://www.cnss.gov/CNSS/issuances/Directives.cfm
+CNSSD-506,National Directive to Implement PKI on Secret Networks,Jan-19,CNSS_Directive,1,KM_Annex_v3.0.0,category,https://www.cnss.gov/CNSS/issuances/Directives.cfm
+FIPS-140-2,Security Requirements for Cryptographic Modules,May-01,FIPS,1,DAR_CP_v5.0,direct,https://csrc.nist.gov/pubs/fips/140-2/upd2/final
+FIPS-140-3,Security Requirements for Cryptographic Modules,Mar-19,FIPS,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/fips/140-3/final
+FIPS-180-4,Secure Hash Standard (SHS),Aug-15,FIPS,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/fips/180-4/upd1/final
+FIPS-186-4,Digital Signature Standard (DSS),Jul-13,FIPS,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/fips/186-4/final
+FIPS-197,Advanced Encryption Standard (AES),Nov-01,FIPS,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0,direct,https://csrc.nist.gov/pubs/fips/197/final
+FIPS-201-2,Personal Identity Verification (PIV),Aug-13,FIPS,5,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/fips/201-2/final
+SP-800-111,Guide to Storage Encryption Technologies for End User Devices,Nov-07,NIST_SP,1,DAR_CP_v5.0,direct,https://csrc.nist.gov/pubs/sp/800/111/final
+SP-800-131A,Transitioning Cryptographic Algorithms and Key Lengths,Mar-19,NIST_SP,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/131/a/r2/final
+SP-800-132,Recommendation for Password-Based Key Derivation,Dec-10,NIST_SP,1,DAR_CP_v5.0,direct,https://csrc.nist.gov/pubs/sp/800/132/final
+SP-800-137,Information Security Continuous Monitoring (ISCM),Sep-11,NIST_SP,1,CM_Annex_v2.0.0,direct,https://csrc.nist.gov/pubs/sp/800/137/final
+SP-800-147,BIOS Protection Guidelines,Apr-11,NIST_SP,5,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/147/final
+SP-800-37,Risk Management Framework for Information Systems,Apr-21,NIST_SP,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/37/r2/final
+SP-800-53,Security and Privacy Controls for Federal IS,Sep-20,NIST_SP,5,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+SP-800-56A,"Pair-Wise Key Establishment Using Discrete Logarithm Cryptography, Rev. 3",Apr-18,NIST_SP,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/56/a/r3/final
+SP-800-56B,"Pair-Wise Key Establishment Using Integer Factorization Cryptography, Rev. 2",Mar-19,NIST_SP,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/56/b/r2/final
+SP-800-56C,"Key Derivation through Extraction-then-Expansion, Rev. 2",Aug-20,NIST_SP,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; DAR_CP_v5.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://csrc.nist.gov/pubs/sp/800/56/c/r2/final
+SP-800-57-1,"Key Management Part 1: General, Rev. 5",May-20,NIST_SP,3,MSC_CP_v1.2.0; KM_Annex_v3.0.0; SKM_Annex_v3.0.0,direct,https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final
+SP-800-57-2,"Key Management Part 2: Best Practices, Rev. 1",May-19,NIST_SP,2,KM_Annex_v3.0.0; SKM_Annex_v3.0.0,direct,https://csrc.nist.gov/pubs/sp/800/57/pt2/r1/final
+SP-800-57-3,"Key Management Part 3: Application-Specific, Rev. 1",Jan-15,NIST_SP,2,KM_Annex_v3.0.0; SKM_Annex_v3.0.0,direct,https://csrc.nist.gov/pubs/sp/800/57/pt3/r1/final
+SP-800-63-2,Electronic Authentication Guideline,Aug-13,NIST_SP,1,DAR_CP_v5.0,direct,https://csrc.nist.gov/pubs/sp/800/63/2/final
+SP-800-77,"Guide to IPsec VPNs, Rev. 1",Jun-20,NIST_SP,2,KM_Annex_v3.0.0; SKM_Annex_v3.0.0,direct,https://csrc.nist.gov/pubs/sp/800/77/r1/final
+IR-7924,NIST Reference Certificate Policy (2nd Draft),May-14,NIST_IR,1,KM_Annex_v3.0.0,direct,https://csrc.nist.gov/pubs/ir/7924/ipd
+RFC-2409,The Internet Key Exchange (IKE),Nov-98,IETF_RFC,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc2409
+RFC-3647,X.509 PKI Certificate Policy and Certification Practices Framework,Nov-03,IETF_RFC,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc3647
+RFC-3711,The Secure Real-Time Transport Protocol (SRTP),Mar-04,IETF_RFC,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc3711
+RFC-4252,SSH Authentication Protocol,Jan-06,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4252
+RFC-4253,SSH Transport Layer Protocol,Jan-06,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4253
+RFC-4254,SSH Connection Protocol,Jan-06,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4254
+RFC-4256,Generic Message Exchange Authentication for SSH,Jan-06,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4256
+RFC-4302,IP Authentication Header,Dec-05,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4302
+RFC-4303,IP Encapsulating Security Payload,Dec-05,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4303
+RFC-4307,Cryptographic Algorithms for IKEv2,Dec-05,IETF_RFC,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4307
+RFC-4308,Cryptographic Suites for IPsec,Dec-05,IETF_RFC,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4308
+RFC-4492,ECC Cipher Suites for TLS,May-06,IETF_RFC,1,Campus_WLAN_CP_v3.1,direct,https://www.rfc-editor.org/rfc/rfc4492
+RFC-4754,IKE/IKEv2 Authentication Using ECDSA,Jan-07,IETF_RFC,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc4754
+RFC-5216,EAP-TLS Authentication Protocol,Mar-08,IETF_RFC,1,KM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc5216
+RFC-5246,TLS Protocol Version 1.2,Aug-08,IETF_RFC,3,MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc5246
+RFC-5280,Internet X.509 PKI Certificate and CRL Profile,May-08,IETF_RFC,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc5280
+RFC-5288,AES-GCM Cipher Suites for TLS,Aug-08,IETF_RFC,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc5288
+RFC-5289,TLS ECC Cipher Suites with SHA-256/384 and AES-GCM,Aug-08,IETF_RFC,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc5289
+RFC-5424,The Syslog Protocol,Mar-09,IETF_RFC,1,CM_Annex_v2.0.0,direct,https://www.rfc-editor.org/rfc/rfc5424
+RFC-5746,TLS Renegotiation Indication Extension,Feb-10,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc5746
+RFC-5759,Suite B Certificate and CRL Profile,Jan-10,IETF_RFC,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc5759
+RFC-5878,TLS Authorization Extensions,May-10,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc5878
+RFC-5903,ECP Groups for IKE and IKEv2,Jun-10,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc5903
+RFC-5996,Internet Key Exchange Protocol Version 2 (IKEv2),Sep-10,IETF_RFC,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc5996
+RFC-6176,Prohibiting SSL Version 2.0,Mar-11,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc6176
+RFC-6188,Use of AES-192 and AES-256 in Secure RTP,Mar-11,IETF_RFC,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc6188
+RFC-6239,Suite B Cryptographic Suites for SSH,May-11,IETF_RFC,2,EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc6239
+RFC-6379,Suite B Cryptographic Suites for IPsec,Oct-11,IETF_RFC,2,EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc6379
+RFC-6380,Suite B Profile for IPsec,Oct-11,IETF_RFC,2,EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc6380
+RFC-6668,SHA-2 Data Integrity for SSH Transport Layer,Jul-12,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc6668
+RFC-6818,Updates to X.509 PKI Certificate and CRL Profile,Jan-13,IETF_RFC,5,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc6818
+RFC-6960,X.509 OCSP,Jun-13,IETF_RFC,2,MSC_CP_v1.2.0; KM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc6960
+RFC-7011,Specification of IPFIX Protocol,Sep-13,IETF_RFC,1,CM_Annex_v2.0.0,direct,https://www.rfc-editor.org/rfc/rfc7011
+RFC-7012,Information Model for IPFIX,Sep-13,IETF_RFC,1,CM_Annex_v2.0.0,direct,https://www.rfc-editor.org/rfc/rfc7012
+RFC-7030,Enrollment over Secure Transport,Oct-13,IETF_RFC,6,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc7030
+RFC-7296,Internet Key Exchange Protocol Version 2 (IKEv2),Oct-14,IETF_RFC,7,MA_CP_v2.7.1; MSC_CP_v1.2.0; Campus_WLAN_CP_v3.1; KM_Annex_v3.0.0; SKM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc7296
+RFC-7427,Signature Authentication in IKEv2,Jan-15,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7427
+RFC-7465,Prohibiting RC4 Cipher Suites,Feb-15,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7465
+RFC-7507,TLS Fallback SCSV,Apr-15,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7507
+RFC-7568,Deprecating SSL Version 3.0,Jun-15,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7568
+RFC-7627,TLS Session Hash and Extended Master Secret,Sep-15,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7627
+RFC-7670,Generic Raw Public-Key Support for IKEv2,Jan-16,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7670
+RFC-7685,TLS ClientHello Padding Extension,Oct-15,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7685
+RFC-7714,AES-GCM Authenticated Encryption in SRTP,Dec-15,IETF_RFC,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc7714
+RFC-7919,Negotiated FF DH Ephemeral Parameters for TLS,Aug-16,IETF_RFC,1,MSC_CP_v1.2.0,direct,https://www.rfc-editor.org/rfc/rfc7919
+RFC-8247,Algorithm Requirements for IKEv2,Sep-17,IETF_RFC,1,KM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc8247
+RFC-8295,EST Extensions,Jan-18,IETF_RFC,1,KM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc8295
+RFC-8422,ECC Cipher Suites for TLS 1.2 and Earlier,Aug-18,IETF_RFC,4,MA_CP_v2.7.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc8422
+RFC-8446,The Transport Layer Security (TLS) Protocol Version 1.3,Aug-18,IETF_RFC,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc8446
+RFC-8603,CNSA Suite Certificate and CRL Profile,May-19,IETF_RFC,4,MA_CP_v2.7.1; KM_Annex_v3.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.rfc-editor.org/rfc/rfc8603
+RFC-8784,Mixing Preshared Keys in IKEv2 for Post-Quantum Security,Jun-20,IETF_RFC,2,MSC_CP_v1.2.0; SKM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc8784
+RFC-9151,CNSA Profile for TLS and DTLS 1.2 and 1.3,Apr-22,IETF_RFC,2,KM_Annex_v3.0.0; SKM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc9151
+RFC-9152,SODP Server Interfaces for Delivery of Certificates/CRLs/Keys,Apr-22,IETF_RFC,2,KM_Annex_v3.0.0; SKM_Annex_v3.0.0,direct,https://www.rfc-editor.org/rfc/rfc9152
+RFC-9206,CNSA Suite Cryptography for IPsec,Feb-22,IETF_RFC,1,MA_CP_v2.7.1,direct,https://www.rfc-editor.org/rfc/rfc9206
+RFC-9212,CNSA Suite Cryptography for Secure Shell,Mar-22,IETF_RFC,1,MA_CP_v2.7.1,direct,https://www.rfc-editor.org/rfc/rfc9212
+IEEE-802.1AE-2018,IEEE Standard for MAC Security,Dec-18,IEEE,2,MSC_CP_v1.2.0; SKM_Annex_v3.0.0,paywall,https://standards.ieee.org/ieee/802.1AE/7055/
+IEEE-802.1X-2020,IEEE Standard for Port-Based Network Access Control,Jan-20,IEEE,2,MSC_CP_v1.2.0; SKM_Annex_v3.0.0,paywall,https://standards.ieee.org/ieee/802.1X/7345/
+ISO-9594-8,Public-Key and Attribute Certificate Frameworks,May-17,ISO,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,paywall,https://www.iso.org/standard/72557.html
+TCG-PC-Client-FIM-v1.0-Rev24,PC Client Platform Firmware Integrity Measurement,Dec-19,TCG,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://trustedcomputinggroup.org/resource/pc-client-specific-platform-firmware-profile-specification/
+TCG-PC-Client-RIM-v0.15,PC Client Reference Integrity Manifest Specification,Mar-20,TCG,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://trustedcomputinggroup.org/resource/tcg-pc-client-reference-integrity-manifest-specification/
+TCG-Platform-Cert-Profile-v1.1-Rev15,TCG Platform Certificate Profile,Feb-19,TCG,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://trustedcomputinggroup.org/resource/tcg-platform-certificate-profile/
+TCG-RIM-Info-Model-v1.0-Rev0.13,Reference Integrity Manifest Information Model,Dec-19,TCG,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://trustedcomputinggroup.org/resource/tcg-reference-integrity-manifest-rim-information-model/
+UEFI-Spec-v2.4,Unified Extensible Firmware Interface Specification,Jun-13,UEFI,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://uefi.org/specs/UEFI/2.4/index.html
+FDE-cPP-AA-v2.0,Collaborative PP for Full Disk Encryption - Authorization Acquisition,Sep-16,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.commoncriteriaportal.org/cc-scheme/collaborative-pps/
+FDE-cPP-EE-v2.0,Collaborative PP for Full Disk Encryption - Encryption Engine,Sep-16,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.commoncriteriaportal.org/cc-scheme/collaborative-pps/
+PP-Application-Software-v1.2,Protection Profile for Application Software (File Encryption),Apr-16,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.niap-ccevs.org/protectionprofiles
+PP-CA,Protection Profile for Certification Authorities,Dec-17,Protection_Profile,1,KM_Annex_v3.0.0,landing,https://www.niap-ccevs.org/protectionprofiles
+PP-IPsec-VPN-Client,Protection Profile for IPsec VPN Clients,October 2017 / August 2021,Protection_Profile,4,MA_CP_v2.7.1; Campus_WLAN_CP_v3.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://www.niap-ccevs.org/protectionprofiles
+PP-MDF,Protection Profile for Mobile Device Fundamentals,Jun-17,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.niap-ccevs.org/protectionprofiles
+PP-Module-FE,PP-Module for File Encryption,Jul-19,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.niap-ccevs.org/protectionprofiles
+PP-Module-FE-EM,PP-Module for File Encryption Enterprise Management,Jul-19,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.niap-ccevs.org/protectionprofiles
+PP-OS,Protection Profile for General Purpose Operating Systems,Mar-16,Protection_Profile,1,DAR_CP_v5.0,landing,https://www.niap-ccevs.org/protectionprofiles
+DoDI-8420.01,"Commercial Wireless LAN Devices, Systems, and Technologies",Nov-17,DoD_Instruction,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/842001p.pdf
+DoDI-8540.01,Cross Domain Policy,Aug-17,DoD_Instruction,5,MA_CP_v2.7.1; MSC_CP_v1.2.0; CM_Annex_v2.0.0; EUD_Addendum_v1.0; PQC_Addendum_v1.0,direct,https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/854001p.pdf
+NSA-CNSA,Guidance on CNSA Cryptography,N/A,NSA_Guidance,2,Campus_WLAN_CP_v3.1; DAR_CP_v5.0,landing,https://www.nsa.gov/Cybersecurity/Post-Quantum-Cybersecurity-Resources/
+NSA-CSS-PM-9-12,Storage Device Declassification,Dec-14,NSA_Guidance,1,DAR_CP_v5.0,direct,https://www.nsa.gov/portals/75/documents/resources/everyone/csfc/storage-device-declassification-manual.pdf
+NSA-Suite-B,Guidance on Suite B Cryptography,Nov-10,NSA_Guidance,3,MA_CP_v2.7.1; EUD_Addendum_v1.0; PQC_Addendum_v1.0,landing,https://www.nsa.gov/Cybersecurity/
