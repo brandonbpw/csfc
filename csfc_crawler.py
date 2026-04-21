@@ -28,11 +28,12 @@ import asyncio
 import json
 import re
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
+import requests
 from bs4 import BeautifulSoup
-from playwright.async_api import async_playwright, BrowserContext, Page
+from playwright.async_api import async_playwright, Page
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
@@ -58,7 +59,8 @@ def is_pdf_url(url: str) -> bool:
 def is_csfc_url(url: str) -> bool:
     parsed = urllib.parse.urlparse(url)
     return (
-        parsed.netloc == ALLOWED_HOST
+        parsed.scheme in ("http", "https")
+        and parsed.netloc == ALLOWED_HOST
         and parsed.path.startswith(CSFC_PATH_PREFIX)
         and not is_pdf_url(url)
     )
@@ -95,7 +97,9 @@ class CSFCCrawler:
 
     async def fetch_page(self, page: Page, url: str) -> str | None:
         try:
-            await page.goto(url, wait_until="networkidle", timeout=30_000)
+            await page.goto(url, wait_until="domcontentloaded", timeout=30_000)
+            # Give JS a moment to render dynamic content
+            await page.wait_for_timeout(3000)
             return await page.content()
         except Exception as e:
             print(f"  [WARN] Could not fetch {url}: {e}")
@@ -129,7 +133,6 @@ class CSFCCrawler:
 
     async def download_pdf(
         self,
-        context: BrowserContext,
         pdf_url: str,
         source_page: str,
         dest_dir: Path,
@@ -138,36 +141,6 @@ class CSFCCrawler:
         dest = dest_dir / filename
 
         if dest.exists():
-            print(f"  [SKIP] {filename}")
-            return
-
-        dl_page = await context.new_page()
-        loop = asyncio.get_event_loop()
-        download_future: asyncio.Future = loop.create_future()
-
-        def on_download(download):
-            if not download_future.done():
-                download_future.set_result(download)
-
-        dl_page.once("download", on_download)
-
-        try:
-            await dl_page.goto(pdf_url, referer=source_page, timeout=60_000)
-        except Exception as e:
-            if "Download is starting" not in str(e):
-                print(f"  [WARN] Navigation error for {pdf_url}: {e}")
-                await dl_page.close()
-                return
-
-        try:
-            download = await asyncio.wait_for(download_future, timeout=60)
-        except asyncio.TimeoutError:
-            print(f"  [WARN] Timed out waiting for download: {pdf_url}")
-            await dl_page.close()
-            return
-
-        try:
-            await download.save_as(dest)
             size_kb = round(dest.stat().st_size / 1024, 1)
             self.catalog.append({
                 "filename": filename,
@@ -175,13 +148,41 @@ class CSFCCrawler:
                 "source_page": source_page,
                 "local_path": str(dest),
                 "size_kb": size_kb,
-                "downloaded_at": datetime.utcnow().isoformat() + "Z",
+                "downloaded_at": None,
+            })
+            print(f"  [SKIP] {filename}")
+            return
+
+        try:
+            resp = requests.get(
+                pdf_url,
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/124.0.0.0 Safari/537.36"
+                    ),
+                    "Referer": source_page,
+                },
+                timeout=60,
+                stream=True,
+            )
+            resp.raise_for_status()
+            with open(dest, "wb") as f:
+                for chunk in resp.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            size_kb = round(dest.stat().st_size / 1024, 1)
+            self.catalog.append({
+                "filename": filename,
+                "url": pdf_url,
+                "source_page": source_page,
+                "local_path": str(dest),
+                "size_kb": size_kb,
+                "downloaded_at": datetime.now(timezone.utc).isoformat(),
             })
             print(f"  [PDF ✓] {filename}  ({size_kb} KB)")
         except Exception as e:
-            print(f"  [WARN] Failed to save {filename}: {e}")
-        finally:
-            await dl_page.close()
+            print(f"  [WARN] Failed to download {filename}: {e}")
 
     # ── Catalog ───────────────────────────────────────────────────────────────
 
@@ -240,7 +241,7 @@ class CSFCCrawler:
                     norm = normalize_url(pdf_url)
                     if norm not in self.visited:
                         self.visited.add(norm)
-                        await self.download_pdf(context, pdf_url, source_page=url, dest_dir=subdir)
+                        await self.download_pdf(pdf_url, source_page=url, dest_dir=subdir)
 
                 self.save_catalog()
                 await asyncio.sleep(DELAY_SECONDS)

@@ -1,0 +1,995 @@
+[
+  {
+    "ref_id": "CNSSD-505",
+    "title": "Supply Chain Risk Management (SCRM)",
+    "category": "CNSS_Directive",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=bGeB65X1YZmF%2FvMOMxTpng%3D%3D&b=4B356F60DD01EFACF6A840D6F23FC961EACEB2F1BBA1EE7DC77C8BBB90109D7B48A87D62A4A64FA1EECAE7FB5896ADC1",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Directive/CNSSD-505.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSD-506",
+    "title": "National Directive to Implement PKI on Secret Networks",
+    "category": "CNSS_Directive",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=NO4T2PeEE0YdPdkNHXIoDA%3D%3D&b=8016D170590F16E832CB714E37CBA9BEE49B58E4A5721600C2B9CA21FDE42F64DBEFB7C25CA813B7FCF9DA76B80B83AF",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Directive/CNSSD-506.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSI-1253",
+    "title": "Security Categorization and Control Selection for NSS",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.dcsa.mil/portals/91/documents/ctp/nao/CNSSI_No1253.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSI-1253.pdf",
+    "size_kb": 0.4
+  },
+  {
+    "ref_id": "CNSSI-1300",
+    "title": "NSS Public Key Infrastructure X.509 Certificate Policy",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=jkMJHR8ESPrlbtgsKrHo5w%3D%3D&b=2906C7F4FC6081DB8EF906972B734A4B15D1E60834CA3F18B02E88F1FE9D65C92858A3B5E5ADDE95C0B0C453E00A793C",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSI-1300.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSI-4003",
+    "title": "Reporting and Evaluating COMSEC Incidents",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/issuances/Instructions.cfm",
+    "status": "skipped",
+    "reason": "no downloadable source available"
+  },
+  {
+    "ref_id": "CNSSI-4004",
+    "title": "Destruction and Emergency Protection Procedures for COMSEC",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/issuances/Instructions.cfm",
+    "status": "skipped",
+    "reason": "no downloadable source available"
+  },
+  {
+    "ref_id": "CNSSI-4005",
+    "title": "Safeguarding COMSEC Facilities and Materials",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/issuances/Instructions.cfm",
+    "status": "skipped",
+    "reason": "no downloadable source available"
+  },
+  {
+    "ref_id": "CNSSI-4009",
+    "title": "CNSS Glossary",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=Wb246NX7fUlvTvKEZqx4BQ%3D%3D&b=EA343296BF7B29FDD266B3C6E36F5EACE6C4A46386456FD6427CEB768B3A66B2B4B149CC584A5E5D465A6C0CE70F5325",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSI-4009.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSP-11",
+    "title": "Acquisition of IA and IA-Enabled IT Products",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=dswYncvmFkmZSJrID%2FdE%2BA%3D%3D&b=8D502E1A1BB24B982A78681BE6B0C948D21D1BAD5516B70F894B1F22BE4EDA3B830F90D8F0D36E593EA22575C6E5E5A6",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSP-11.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSP-15",
+    "title": "Use of Public Standards for Secure Information Sharing",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=VqW%2BtnhJlE4QyNHTMfu1Lg%3D%3D&b=6A2A4FF08559231E6CEC4DB6CAEC206257E897AEA2C4365659CD0530E5E0B993B0554B9A211490E66E5434A0E04B06D1",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSP-15.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSP-25",
+    "title": "National Policy for PKI in NSS",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=L2yrsluzJZW%2F4GarBXD%2FXQ%3D%3D&b=1D352E3D739E6C40ACC5BF99F19F738A393F56EC80C1FAA2A7B0A8B627D9935C8F0BFEF4C070A2A50153795567583C1A",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSP-25.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "CNSSP-7",
+    "title": "Use of Commercial Solutions to Protect NSS",
+    "category": "CNSS_Policy",
+    "source_url": "https://www.cnss.gov/CNSS/openDoc.cfm?a=bKR2XQEC8I7BgUbZ70NnZw%3D%3D&b=AF9FE2C42A4C9688B9B8AFF5A1BCAC8361985F7DD3001D9E6BD8A4B7B68FA2DF6A912DCCAEFA2D4EF8B4470214C3E35E",
+    "status": "cached",
+    "local_path": "csfc_references/CNSS_Policy/CNSSP-7.pdf",
+    "size_kb": 22.3
+  },
+  {
+    "ref_id": "DoDI-8420.01",
+    "title": "Commercial Wireless LAN Devices, Systems, and Technologies",
+    "category": "DoD_Instruction",
+    "source_url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/842001p.PDF?ver=st6tPuuI8400xP67wX-c3w%3D%3D",
+    "status": "failed",
+    "pdf_url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/842001p.PDF?ver=st6tPuuI8400xP67wX-c3w%3D%3D",
+    "reason": "download failed (requests + browser): Timeout 60000ms exceeded while waiting for event \"download\"\n=========================== logs ===========================\nwaiting for event \"download\"\n============================================================"
+  },
+  {
+    "ref_id": "DoDI-8540.01",
+    "title": "Cross Domain Policy",
+    "category": "DoD_Instruction",
+    "source_url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/854001p.pdf",
+    "status": "failed",
+    "pdf_url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/854001p.pdf",
+    "reason": "download failed (requests + browser): Timeout 60000ms exceeded while waiting for event \"download\"\n=========================== logs ===========================\nwaiting for event \"download\"\n============================================================"
+  },
+  {
+    "ref_id": "FIPS-140-2",
+    "title": "Security Requirements for Cryptographic Modules",
+    "category": "FIPS",
+    "source_url": "https://csrc.nist.gov/pubs/fips/140-2/upd2/final",
+    "status": "cached",
+    "local_path": "csfc_references/FIPS/FIPS-140-2.pdf",
+    "size_kb": 1431.9
+  },
+  {
+    "ref_id": "FIPS-140-3",
+    "title": "Security Requirements for Cryptographic Modules",
+    "category": "FIPS",
+    "source_url": "https://csrc.nist.gov/pubs/fips/140-3/final",
+    "status": "cached",
+    "local_path": "csfc_references/FIPS/FIPS-140-3.pdf",
+    "size_kb": 303.3
+  },
+  {
+    "ref_id": "FIPS-180-4",
+    "title": "Secure Hash Standard (SHS)",
+    "category": "FIPS",
+    "source_url": "https://csrc.nist.gov/pubs/fips/180-4/upd1/final",
+    "status": "cached",
+    "local_path": "csfc_references/FIPS/FIPS-180-4.pdf",
+    "size_kb": 813.8
+  },
+  {
+    "ref_id": "FIPS-186-4",
+    "title": "Digital Signature Standard (DSS)",
+    "category": "FIPS",
+    "source_url": "https://csrc.nist.gov/pubs/fips/186-4/final",
+    "status": "cached",
+    "local_path": "csfc_references/FIPS/FIPS-186-4.pdf",
+    "size_kb": 919.5
+  },
+  {
+    "ref_id": "FIPS-197",
+    "title": "Advanced Encryption Standard (AES)",
+    "category": "FIPS",
+    "source_url": "https://csrc.nist.gov/pubs/fips/197/final",
+    "status": "cached",
+    "local_path": "csfc_references/FIPS/FIPS-197.pdf",
+    "size_kb": 1156.7
+  },
+  {
+    "ref_id": "FIPS-201-2",
+    "title": "Personal Identity Verification (PIV)",
+    "category": "FIPS",
+    "source_url": "https://csrc.nist.gov/pubs/fips/201-2/final",
+    "status": "cached",
+    "local_path": "csfc_references/FIPS/FIPS-201-2.pdf",
+    "size_kb": 5035.1
+  },
+  {
+    "ref_id": "IEEE-802.1AE-2018",
+    "title": "IEEE Standard for MAC Security",
+    "category": "IEEE",
+    "source_url": "https://standards.ieee.org/ieee/802.1AE/7055/",
+    "status": "skipped",
+    "reason": "no downloadable source available"
+  },
+  {
+    "ref_id": "IEEE-802.1X-2020",
+    "title": "IEEE Standard for Port-Based Network Access Control",
+    "category": "IEEE",
+    "source_url": "https://standards.ieee.org/ieee/802.1X/7345/",
+    "status": "skipped",
+    "reason": "no downloadable source available"
+  },
+  {
+    "ref_id": "RFC-2409",
+    "title": "The Internet Key Exchange (IKE)",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc2409",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-2409.pdf",
+    "size_kb": 142.2
+  },
+  {
+    "ref_id": "RFC-3647",
+    "title": "X.509 PKI Certificate Policy and Certification Practices Framework",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc3647",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-3647.pdf",
+    "size_kb": 291.6
+  },
+  {
+    "ref_id": "RFC-3711",
+    "title": "The Secure Real-Time Transport Protocol (SRTP)",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc3711",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-3711.pdf",
+    "size_kb": 226.1
+  },
+  {
+    "ref_id": "RFC-4252",
+    "title": "SSH Authentication Protocol",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4252",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4252.pdf",
+    "size_kb": 82.3
+  },
+  {
+    "ref_id": "RFC-4253",
+    "title": "SSH Transport Layer Protocol",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4253",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4253.pdf",
+    "size_kb": 136.6
+  },
+  {
+    "ref_id": "RFC-4254",
+    "title": "SSH Connection Protocol",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4254",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4254.pdf",
+    "size_kb": 105.5
+  },
+  {
+    "ref_id": "RFC-4256",
+    "title": "Generic Message Exchange Authentication for SSH",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4256",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4256.pdf",
+    "size_kb": 60.8
+  },
+  {
+    "ref_id": "RFC-4302",
+    "title": "IP Authentication Header",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4302",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4302.pdf",
+    "size_kb": 148.9
+  },
+  {
+    "ref_id": "RFC-4303",
+    "title": "IP Encapsulating Security Payload",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4303",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4303.pdf",
+    "size_kb": 168.7
+  },
+  {
+    "ref_id": "RFC-4307",
+    "title": "Cryptographic Algorithms for IKEv2",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4307",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4307.pdf",
+    "size_kb": 49.4
+  },
+  {
+    "ref_id": "RFC-4308",
+    "title": "Cryptographic Suites for IPsec",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4308",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4308.pdf",
+    "size_kb": 50.4
+  },
+  {
+    "ref_id": "RFC-4492",
+    "title": "ECC Cipher Suites for TLS",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4492",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4492.pdf",
+    "size_kb": 137.7
+  },
+  {
+    "ref_id": "RFC-4754",
+    "title": "IKE/IKEv2 Authentication Using ECDSA",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc4754",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-4754.pdf",
+    "size_kb": 74.4
+  },
+  {
+    "ref_id": "RFC-5216",
+    "title": "EAP-TLS Authentication Protocol",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5216",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5216.pdf",
+    "size_kb": 134.3
+  },
+  {
+    "ref_id": "RFC-5246",
+    "title": "TLS Protocol Version 1.2",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5246",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5246.pdf",
+    "size_kb": 338.4
+  },
+  {
+    "ref_id": "RFC-5280",
+    "title": "Internet X.509 PKI Certificate and CRL Profile",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5280",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5280.pdf",
+    "size_kb": 478.4
+  },
+  {
+    "ref_id": "RFC-5288",
+    "title": "AES-GCM Cipher Suites for TLS",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5288",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5288.pdf",
+    "size_kb": 56.4
+  },
+  {
+    "ref_id": "RFC-5289",
+    "title": "TLS ECC Cipher Suites with SHA-256/384 and AES-GCM",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5289",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5289.pdf",
+    "size_kb": 53.7
+  },
+  {
+    "ref_id": "RFC-5424",
+    "title": "The Syslog Protocol",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5424",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5424.pdf",
+    "size_kb": 165.6
+  },
+  {
+    "ref_id": "RFC-5746",
+    "title": "TLS Renegotiation Indication Extension",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5746",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5746.pdf",
+    "size_kb": 80.7
+  },
+  {
+    "ref_id": "RFC-5759",
+    "title": "Suite B Certificate and CRL Profile",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5759",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5759.pdf",
+    "size_kb": 71.1
+  },
+  {
+    "ref_id": "RFC-5878",
+    "title": "TLS Authorization Extensions",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5878",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5878.pdf",
+    "size_kb": 89.9
+  },
+  {
+    "ref_id": "RFC-5903",
+    "title": "ECP Groups for IKE and IKEv2",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5903",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5903.pdf",
+    "size_kb": 84.4
+  },
+  {
+    "ref_id": "RFC-5996",
+    "title": "Internet Key Exchange Protocol Version 2 (IKEv2)",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc5996",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-5996.pdf",
+    "size_kb": 472.9
+  },
+  {
+    "ref_id": "RFC-6176",
+    "title": "Prohibiting SSL Version 2.0",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6176",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6176.pdf",
+    "size_kb": 43.1
+  },
+  {
+    "ref_id": "RFC-6188",
+    "title": "Use of AES-192 and AES-256 in Secure RTP",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6188",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6188.pdf",
+    "size_kb": 77.4
+  },
+  {
+    "ref_id": "RFC-6239",
+    "title": "Suite B Cryptographic Suites for SSH",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6239",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6239.pdf",
+    "size_kb": 79.1
+  },
+  {
+    "ref_id": "RFC-6379",
+    "title": "Suite B Cryptographic Suites for IPsec",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6379",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6379.pdf",
+    "size_kb": 60.6
+  },
+  {
+    "ref_id": "RFC-6380",
+    "title": "Suite B Profile for IPsec",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6380",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6380.pdf",
+    "size_kb": 68.2
+  },
+  {
+    "ref_id": "RFC-6668",
+    "title": "SHA-2 Data Integrity for SSH Transport Layer",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6668",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6668.pdf",
+    "size_kb": 47.2
+  },
+  {
+    "ref_id": "RFC-6818",
+    "title": "Updates to X.509 PKI Certificate and CRL Profile",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6818",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6818.pdf",
+    "size_kb": 63.6
+  },
+  {
+    "ref_id": "RFC-6960",
+    "title": "X.509 OCSP",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc6960",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-6960.pdf",
+    "size_kb": 160.8
+  },
+  {
+    "ref_id": "RFC-7011",
+    "title": "Specification of IPFIX Protocol",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7011",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7011.pdf",
+    "size_kb": 271.7
+  },
+  {
+    "ref_id": "RFC-7012",
+    "title": "Information Model for IPFIX",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7012",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7012.pdf",
+    "size_kb": 134.6
+  },
+  {
+    "ref_id": "RFC-7030",
+    "title": "Enrollment over Secure Transport",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7030",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7030.pdf",
+    "size_kb": 239.7
+  },
+  {
+    "ref_id": "RFC-7296",
+    "title": "Internet Key Exchange Protocol Version 2 (IKEv2)",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7296",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7296.pdf",
+    "size_kb": 497.3
+  },
+  {
+    "ref_id": "RFC-7427",
+    "title": "Signature Authentication in IKEv2",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7427",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7427.pdf",
+    "size_kb": 95.1
+  },
+  {
+    "ref_id": "RFC-7465",
+    "title": "Prohibiting RC4 Cipher Suites",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7465",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7465.pdf",
+    "size_kb": 46.0
+  },
+  {
+    "ref_id": "RFC-7507",
+    "title": "TLS Fallback SCSV",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7507",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7507.pdf",
+    "size_kb": 59.2
+  },
+  {
+    "ref_id": "RFC-7568",
+    "title": "Deprecating SSL Version 3.0",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7568",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7568.pdf",
+    "size_kb": 61.3
+  },
+  {
+    "ref_id": "RFC-7627",
+    "title": "TLS Session Hash and Extended Master Secret",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7627",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7627.pdf",
+    "size_kb": 87.1
+  },
+  {
+    "ref_id": "RFC-7670",
+    "title": "Generic Raw Public-Key Support for IKEv2",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7670",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7670.pdf",
+    "size_kb": 68.0
+  },
+  {
+    "ref_id": "RFC-7685",
+    "title": "TLS ClientHello Padding Extension",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7685",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7685.pdf",
+    "size_kb": 40.9
+  },
+  {
+    "ref_id": "RFC-7714",
+    "title": "AES-GCM Authenticated Encryption in SRTP",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7714",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7714.pdf",
+    "size_kb": 165.8
+  },
+  {
+    "ref_id": "RFC-7919",
+    "title": "Negotiated FF DH Ephemeral Parameters for TLS",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc7919",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-7919.pdf",
+    "size_kb": 134.5
+  },
+  {
+    "ref_id": "RFC-8247",
+    "title": "Algorithm Requirements for IKEv2",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc8247",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-8247.pdf",
+    "size_kb": 102.8
+  },
+  {
+    "ref_id": "RFC-8295",
+    "title": "EST Extensions",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc8295",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-8295.pdf",
+    "size_kb": 251.5
+  },
+  {
+    "ref_id": "RFC-8422",
+    "title": "ECC Cipher Suites for TLS 1.2 and Earlier",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc8422",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-8422.pdf",
+    "size_kb": 145.8
+  },
+  {
+    "ref_id": "RFC-8446",
+    "title": "The Transport Layer Security (TLS) Protocol Version 1.3",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc8446",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-8446.pdf",
+    "size_kb": 541.5
+  },
+  {
+    "ref_id": "RFC-8603",
+    "title": "CNSA Suite Certificate and CRL Profile",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc8603",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-8603.pdf",
+    "size_kb": 86.1
+  },
+  {
+    "ref_id": "RFC-8784",
+    "title": "Mixing Preshared Keys in IKEv2 for Post-Quantum Security",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc8784",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-8784.pdf",
+    "size_kb": 208.6
+  },
+  {
+    "ref_id": "RFC-9151",
+    "title": "CNSA Profile for TLS and DTLS 1.2 and 1.3",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc9151",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-9151.pdf",
+    "size_kb": 204.9
+  },
+  {
+    "ref_id": "RFC-9152",
+    "title": "SODP Server Interfaces for Delivery of Certificates/CRLs/Keys",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc9152",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-9152.pdf",
+    "size_kb": 255.9
+  },
+  {
+    "ref_id": "RFC-9206",
+    "title": "CNSA Suite Cryptography for IPsec",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc9206",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-9206.pdf",
+    "size_kb": 191.1
+  },
+  {
+    "ref_id": "RFC-9212",
+    "title": "CNSA Suite Cryptography for Secure Shell",
+    "category": "IETF_RFC",
+    "source_url": "https://www.rfc-editor.org/rfc/rfc9212",
+    "status": "cached",
+    "local_path": "csfc_references/IETF_RFC/RFC-9212.pdf",
+    "size_kb": 175.6
+  },
+  {
+    "ref_id": "ISO-9594-8",
+    "title": "Public-Key and Attribute Certificate Frameworks",
+    "category": "ISO",
+    "source_url": "https://www.iso.org/standard/72557.html",
+    "status": "skipped",
+    "reason": "no downloadable source available"
+  },
+  {
+    "ref_id": "IR-7924",
+    "title": "NIST Reference Certificate Policy (2nd Draft)",
+    "category": "NIST_IR",
+    "source_url": "https://csrc.nist.gov/files/pubs/ir/7924/ipd/docs/nistir_7924_2nd_draft.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_IR/IR-7924.pdf",
+    "size_kb": 632.5
+  },
+  {
+    "ref_id": "SP-800-111",
+    "title": "Guide to Storage Encryption Technologies for End User Devices",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/111/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-111.pdf",
+    "size_kb": 219.1
+  },
+  {
+    "ref_id": "SP-800-131A",
+    "title": "Transitioning Cryptographic Algorithms and Key Lengths",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/131/a/r2/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-131A.pdf",
+    "size_kb": 670.1
+  },
+  {
+    "ref_id": "SP-800-132",
+    "title": "Recommendation for Password-Based Key Derivation",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/132/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-132.pdf",
+    "size_kb": 126.0
+  },
+  {
+    "ref_id": "SP-800-137",
+    "title": "Information Security Continuous Monitoring (ISCM)",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/137/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-137.pdf",
+    "size_kb": 963.8
+  },
+  {
+    "ref_id": "SP-800-147",
+    "title": "BIOS Protection Guidelines",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/147/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-147.pdf",
+    "size_kb": 923.5
+  },
+  {
+    "ref_id": "SP-800-37",
+    "title": "Risk Management Framework for Information Systems",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/37/r2/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-37.pdf",
+    "size_kb": 2217.1
+  },
+  {
+    "ref_id": "SP-800-53",
+    "title": "Security and Privacy Controls for Federal IS",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-53.pdf",
+    "size_kb": 5931.3
+  },
+  {
+    "ref_id": "SP-800-56A",
+    "title": "Pair-Wise Key Establishment Using Discrete Logarithm Cryptography, Rev. 3",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/56/a/r3/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-56A.pdf",
+    "size_kb": 1706.5
+  },
+  {
+    "ref_id": "SP-800-56B",
+    "title": "Pair-Wise Key Establishment Using Integer Factorization Cryptography, Rev. 2",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/56/b/r2/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-56B.pdf",
+    "size_kb": 1528.0
+  },
+  {
+    "ref_id": "SP-800-56C",
+    "title": "Key Derivation through Extraction-then-Expansion, Rev. 2",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/56/c/r2/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-56C.pdf",
+    "size_kb": 678.9
+  },
+  {
+    "ref_id": "SP-800-57-1",
+    "title": "Key Management Part 1: General, Rev. 5",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-57-1.pdf",
+    "size_kb": 1648.5
+  },
+  {
+    "ref_id": "SP-800-57-2",
+    "title": "Key Management Part 2: Best Practices, Rev. 1",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/57/pt2/r1/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-57-2.pdf",
+    "size_kb": 1164.3
+  },
+  {
+    "ref_id": "SP-800-57-3",
+    "title": "Key Management Part 3: Application-Specific, Rev. 1",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/57/pt3/r1/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-57-3.pdf",
+    "size_kb": 1022.6
+  },
+  {
+    "ref_id": "SP-800-63-2",
+    "title": "Electronic Authentication Guideline",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/63/2/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-63-2.pdf",
+    "size_kb": 1133.4
+  },
+  {
+    "ref_id": "SP-800-77",
+    "title": "Guide to IPsec VPNs, Rev. 1",
+    "category": "NIST_SP",
+    "source_url": "https://csrc.nist.gov/pubs/sp/800/77/r1/final",
+    "status": "cached",
+    "local_path": "csfc_references/NIST_SP/SP-800-77.pdf",
+    "size_kb": 3034.1
+  },
+  {
+    "ref_id": "NSA-CNSA",
+    "title": "Guidance on CNSA Cryptography",
+    "category": "NSA_Guidance",
+    "source_url": "https://media.defense.gov/2025/May/30/2003728741/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS.PDF",
+    "status": "cached",
+    "local_path": "csfc_references/NSA_Guidance/NSA-CNSA.pdf",
+    "size_kb": 0.5
+  },
+  {
+    "ref_id": "NSA-CSS-PM-9-12",
+    "title": "Storage Device Declassification",
+    "category": "NSA_Guidance",
+    "source_url": "https://www.nsa.gov/portals/75/documents/resources/everyone/media-destruction/PM_9-12_20201204_Storage%20Device%20Sanitization%20and%20Destruction%20Manual.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/NSA_Guidance/NSA-CSS-PM-9-12.pdf",
+    "size_kb": 509.0
+  },
+  {
+    "ref_id": "NSA-Suite-B",
+    "title": "Guidance on Suite B Cryptography",
+    "category": "NSA_Guidance",
+    "access": "landing",
+    "source_url": "https://csrc.nist.gov/Projects/Cryptographic-Algorithm-Validation-Program/Secret-Ciphers",
+    "status": "skipped",
+    "reason": "access=landing (manual retrieval required)"
+  },
+  {
+    "ref_id": "FDE-cPP-AA-v2.0",
+    "title": "Collaborative PP for Full Disk Encryption - Authorization Acquisition",
+    "category": "Protection_Profile",
+    "source_url": "https://www.commoncriteriaportal.org/files/ppfiles/CPP_FDE_AA_V2.0.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/FDE-cPP-AA-v2.0.pdf",
+    "size_kb": 1602.4
+  },
+  {
+    "ref_id": "FDE-cPP-EE-v2.0",
+    "title": "Collaborative PP for Full Disk Encryption - Encryption Engine",
+    "category": "Protection_Profile",
+    "source_url": "https://www.commoncriteriaportal.org/files/ppfiles/CPP_FDE_EE_V2.0E.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/FDE-cPP-EE-v2.0.pdf",
+    "size_kb": 1419.2
+  },
+  {
+    "ref_id": "PP-Application-Software-v1.2",
+    "title": "Protection Profile for Application Software (File Encryption)",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-Application-Software-v1.2.pdf",
+    "size_kb": 885.2
+  },
+  {
+    "ref_id": "PP-CA",
+    "title": "Protection Profile for Certification Authorities",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-CA.pdf",
+    "size_kb": 2073.2
+  },
+  {
+    "ref_id": "PP-IPsec-VPN-Client",
+    "title": "Protection Profile for IPsec VPN Clients",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-IPsec-VPN-Client.pdf",
+    "size_kb": 1115.5
+  },
+  {
+    "ref_id": "PP-MDF",
+    "title": "Protection Profile for Mobile Device Fundamentals",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-MDF.pdf",
+    "size_kb": 7270.1
+  },
+  {
+    "ref_id": "PP-Module-FE",
+    "title": "PP-Module for File Encryption",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-Module-FE.pdf",
+    "size_kb": 4285.2
+  },
+  {
+    "ref_id": "PP-Module-FE-EM",
+    "title": "PP-Module for File Encryption Enterprise Management",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-Module-FE-EM.pdf",
+    "size_kb": 4285.2
+  },
+  {
+    "ref_id": "PP-OS",
+    "title": "Protection Profile for General Purpose Operating Systems",
+    "category": "Protection_Profile",
+    "source_url": "https://www.niap-ccevs.org/protectionprofiles",
+    "status": "cached",
+    "local_path": "csfc_references/Protection_Profile/PP-OS.pdf",
+    "size_kb": 2730.3
+  },
+  {
+    "ref_id": "TCG-PC-Client-FIM-v1.0-Rev24",
+    "title": "PC Client Platform Firmware Integrity Measurement",
+    "category": "TCG",
+    "source_url": "https://trustedcomputinggroup.org/wp-content/uploads/TCG-PC-Client-Platform-Firmware-Profile-Version-1.06-Revision-52_pub-3.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/TCG/TCG-PC-Client-FIM-v1.0-Rev24.pdf",
+    "size_kb": 1761.6
+  },
+  {
+    "ref_id": "TCG-PC-Client-RIM-v0.15",
+    "title": "PC Client Reference Integrity Manifest Specification",
+    "category": "TCG",
+    "source_url": "https://trustedcomputinggroup.org/wp-content/uploads/TCG-PC-Client-Reference-Integrity-Manifest-Specification-Version-1.1-Revision-11_pub.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/TCG/TCG-PC-Client-RIM-v0.15.pdf",
+    "size_kb": 445.0
+  },
+  {
+    "ref_id": "TCG-Platform-Cert-Profile-v1.1-Rev15",
+    "title": "TCG Platform Certificate Profile",
+    "category": "TCG",
+    "source_url": "https://trustedcomputinggroup.org/wp-content/uploads/TCG_Platform_Certificate_Profile_2.1_Pub.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/TCG/TCG-Platform-Cert-Profile-v1.1-Rev15.pdf",
+    "size_kb": 731.5
+  },
+  {
+    "ref_id": "TCG-RIM-Info-Model-v1.0-Rev0.13",
+    "title": "Reference Integrity Manifest Information Model",
+    "category": "TCG",
+    "source_url": "https://trustedcomputinggroup.org/wp-content/uploads/TCG-Reference-Integrity-Manifest-RIM-Information-Model-Version-1.1-Revision-1.0_pub-1.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/TCG/TCG-RIM-Info-Model-v1.0-Rev0.13.pdf",
+    "size_kb": 739.9
+  },
+  {
+    "ref_id": "UEFI-Spec-v2.4",
+    "title": "Unified Extensible Firmware Interface Specification",
+    "category": "UEFI",
+    "source_url": "https://uefi.org/sites/default/files/resources/UEFI_2.4.pdf",
+    "status": "cached",
+    "local_path": "csfc_references/UEFI/UEFI-Spec-v2.4.pdf",
+    "size_kb": 11340.1
+  }
+]
